@@ -1,0 +1,15 @@
+SI RENTAL BUKU
+
+1. User-> admin, penyewa
+2. Buku memiliki multiple kategori
+3. Unique dengan kode buku
+4. List buku terlihat tanpa login
+5. Search melalui judul atau kategori
+6. Untuk pinjam buku, harus membuat akun sebagai penyewa
+7. Pengunjung bisa register sebagai penyewa, tapi harus diapprove oleh admin(validasi manual)
+8. Admin-> tambah data buku, kategori dan  assign kategori ke buku
+9. Penyewa maksimal pinjam 3 buku
+10. Hanya 3hari maksimal dipinjam
+11. Admin bisa melihat list buku yang dipinjam
+12. Admin bisa melihat penyewa yang terkena denda (3 hari belum kembalikan buku) dan melihat detail peminjaman
+13. Admin bisa melihat log peminjaman buku (memberi tgl wajib pengembalian buku & tgl aktual buku dikembalikan
